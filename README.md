@@ -8,7 +8,7 @@ NOT infinite
 Left Up render order  
 Can be whatever size height/width  
 Layers: BaseForeground, BaseBlocking, BaseWalkable  
-spawnX and spawnY (Float) properties can be added to the map to specify a spawn point, or it defaults to (10,10)
+spawnX and spawnY (Float) properties can be added to the map to specify a spawn point, or it defaults to (1,1), the bottom left
   
 If you put a testmap.tmx file in the same folder as the jar file, it will load that map.  
 *** You must edit your tmx file with notepad or something, and change the image path to be ../tilesets/basictiles.png (or things.png) or it will crash.
