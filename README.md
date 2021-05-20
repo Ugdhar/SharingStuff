@@ -6,7 +6,8 @@ So far implemented tile map, character sprite, ASWD movement, hold left shift to
 # Maps  
 NOT infinite  
 Left Up render order  
-Layers: BaseBlocking, BaseWalkable, BaseForeground  
+Can be whatever size height/width  
+Layers: BaseForeground, BaseBlocking, BaseWalkable  
 spawnX and spawnY (Float) properties can be added to the map to specify a spawn point, or it defaults to (10,10)
   
 If you put a testmap.tmx file in the same folder as the jar file, it will load that map.  
