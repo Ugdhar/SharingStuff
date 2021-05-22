@@ -2,6 +2,7 @@
 For now, just sharing beginnings of a simple game written in Java and using libGDX.  
   
 So far implemented tile map, character sprite, ASWD movement, hold left shift to run faster. simple f3 debug info.  
+Collision should work for any tiles on the BaseBlocking layer
   
 # Maps  
 NOT infinite  
